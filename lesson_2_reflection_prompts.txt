@@ -4,3 +4,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
  As staging area put the files in some middle file and when we put them in repo only one singal commit is created for that.
+
+How can you use the staging area to make sure you have one commit per logical change?
+ Staging area put the changes in stage between the repo and working dir and when we want to commit all the changes at one time 
+ it is useful.

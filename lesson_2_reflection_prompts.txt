@@ -10,7 +10,17 @@ How can you use the staging area to make sure you have one commit per logical ch
  it is useful.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
  It is helpful at the time when you are trying something experimental thing on your project for which you are not sure .
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
  There are some pros and cons
+
+It is helpful at the time when you are trying something experimental thing on your project for which you are not sure .
+
+How do the diagrams help you visualize the branch structure?
+ As the diagrams shows that which work is still not commited that may be lost without any head on that.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ it is cool!!
+

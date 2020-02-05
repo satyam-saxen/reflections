@@ -14,3 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
  As the diagrams shows that which work is still not commited that may be lost without any head on that.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ it is cool!!
